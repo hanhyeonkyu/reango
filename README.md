@@ -5,9 +5,9 @@
 ### django
 - [x] basic setting
 - [x] apply djangorestframework
-- [ ] make serializer & view & url
-- [ ] GET, PUT, PATCH, DELETE, HEAD, OPTIONS example
-- [ ] write way to use this framework
+- [x] make serializer & view & url
+- [x] GET, PUT, PATCH, DELETE, HEAD, OPTIONS example
+- [x] write way to use this framework
 
 ### react
 - [ ] basic setting
