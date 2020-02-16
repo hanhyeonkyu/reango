@@ -1,0 +1,27 @@
+.work {
+    height: 85vh;
+    background-image: url("/assets/img/work.jpg");
+    background-position: center;
+    background-size: cover;
+
+    .contents {
+        height: 100%;
+        width: 100%;
+        color: whitesmoke;
+
+        .upper {
+            font-style: italic;
+            padding-top: 5vh;
+            padding-left: 5vw;
+            font-family: fantasy;
+        }
+
+        .lower {
+            font-style: oblique;
+            font-family: cursive;
+            text-align: right;
+            padding-top: 33vh;
+            padding-right: 5vw;
+        }
+    }
+}

@@ -1,0 +1,39 @@
+.landing {
+    height: 85vh;
+    background-image: url("/assets/img/stars.jpg");
+    background-position: center;
+    background-size: cover;
+
+    .contents {
+        text-align: center;
+        height: 100%;
+        width: 100%;
+        padding-top: 30vh;
+        .title {
+            font-size: 3.5rem;
+            font-weight: 900;
+            color: white;
+        }
+
+        .subtitle {
+            font-size: 1.5rem;
+            font-weight: 300;
+            color: violet;
+            margin-top: -1.5vh;
+        }
+
+        .action {
+            border: 1px solid magenta;
+            border-radius: 1rem;
+            background: magenta;
+            color: white;
+            width: 13rem;
+            font-size: 2rem;
+            margin: 3vh auto;
+            cursor: pointer;
+            &:focus{
+                outline: none;
+            }
+        }
+    }
+}
