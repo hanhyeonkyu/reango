@@ -10,7 +10,7 @@
 - [x] write way to use this framework
 
 ### react
-- [ ] basic setting
-- [ ] apply typescript
+- [x] basic setting
+- [x] apply typescript
 - [ ] make useful utility for use
 - [ ] connect api
