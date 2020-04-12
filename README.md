@@ -2,6 +2,10 @@
 
 ## react(typescript) + django boilerplate
 
+## GOTO
+- [FRONTEND](/frontend/)
+- [BACKEND](/backend/)
+
 ### django
 
 - [x] basic setting
